@@ -13,7 +13,7 @@ You can find the Customer list here.
 
 Direct pull this project and run will initial a web server for this API:
 ```
-git clone nearby-customers
+git clone git@github.com:Festum/nearby-customers.git
 cd nearby-customers/
 go get ./...
 go run main.go
