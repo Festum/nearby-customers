@@ -4,6 +4,7 @@ We have some customer records in a text file `customers.json` -- one customer pe
 - read the full list of customers and
 - output the names and user ids of matching customers (within 100km),
 - sorted by User ID (ascending).
+
 You can use the first formula from this Wikipedia article to calculate distance. Don't forget, you'll need to convert degrees to radians.
 The GPS coordinates for our Dublin office are 53.339428, -6.257664.
 You can find the Customer list here.
